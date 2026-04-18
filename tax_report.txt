@@ -1,0 +1,6 @@
+=========== TAX REPORT ===========
+Selected Tax Regime  : New Regime
+Annual Income        : ₹7000000.00
+Total Deductions     : ₹50000.00
+Final Tax Payable    : ₹1846000.00
+===================================
