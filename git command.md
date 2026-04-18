@@ -10,3 +10,9 @@ git add new.c
 >kush o is `moon`
 
 ![] (https://youtu.be/UrsmFxEIp5k?si=RPwj3ITBBtw0ZLWg)
+
+git commit -m "creat md and add cammand"   ( update changes)
+
+git add *   (all file update)   
+
+
